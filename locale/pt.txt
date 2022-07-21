@@ -1,0 +1,51 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tour Virtual 360º - Eco Clean Unid Araguaia 
+
+## Skin
+
+### Button
+Button_DD8C155D_FBD8_F703_41E5_3975B98931AA.label = WHATSAPP
+Button_DD8C155D_FBD8_F703_41E5_3975B98931AA_mobile.label = WHATSAPP
+Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753.label = INSTAGRAM
+Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753_mobile.label = INSTAGRAM
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928.label = NOSSO SITE
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928_mobile.label = NOSSO SITE
+Button_E6586701_FB4B_7303_41E2_5D84B36689DF.label = LOCALIZAÇÃO
+Button_E6586701_FB4B_7303_41E2_5D84B36689DF_mobile.label = LOCALIZAÇÃO
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = IMAGEM AÉREA
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = IMAGEM AÉREA
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A.label = RECEPÇÃO
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A_mobile.label = RECEPÇÃO
+Button_E7BA7801_FB4F_7D03_41C2_8B6EE6D3E8D9.label = ÁREA EXTERNA
+Button_E7BA7801_FB4F_7D03_41C2_8B6EE6D3E8D9_mobile.label = ÁREA EXTERNA
+
+## Media
+
+### Title
+panorama_0677208E_1E7F_8D29_41A3_5C8302AF8A98.label = Eco Clean - Araguaia_
+panorama_14C0153D_1E38_976B_419B_238748A870F8.label = 1 (10)
+panorama_14C026A8_1E38_9569_41B8_28A76B56D58B.label = 1 (8)
+panorama_14C035F2_1E38_B6F9_41B1_8011B5DA01E9.label = 1 (9)
+panorama_14C38590_1E38_9738_41BA_F6E2AB9BFCC0.label = FAIXADA
+panorama_153F8748_1E38_7329_41A8_109FA6065FF8.label = 1 (7)
+panorama_15CC675B_1E39_932F_4182_265736B05F39.label = 1 (1)
+
+## Action
+
+### URL
+LinkBehaviour_0125F521_1EC8_771B_41BE_6935C4FC0DA0.source = https://ecocleandistribuicao.com.br/
+LinkBehaviour_0129D532_1EC8_7778_418B_7978244FE85C.source = https://www.instagram.com/ecocleanhigieneelimpeza/
+LinkBehaviour_012A2535_1EC8_7778_41A8_C3DC6833B0E7.source = https://api.whatsapp.com/message/4V6XFX2ZEUGCB1?autoload=1&app_absent=0
+LinkBehaviour_012A652E_1EC8_7768_4193_C5640F6F9746.source = https://api.whatsapp.com/message/4V6XFX2ZEUGCB1?autoload=1&app_absent=0
+LinkBehaviour_012BA524_1EC8_7719_41A8_042509E7274F.source = https://www.google.com/maps/dir//Eco+Clean+-+Avenida+Furnas+Qd.+B1,+R.+L-6+-+St.+Araguaia,+Aparecida+de+Goi%C3%A2nia+-+GO,+74811-145/@-16.7929238,-49.3639435,12z/data=!4m9!4m8!1m0!1m5!1m1!1s0x935efb4625d2c8b7:0xff0e34b446151f14!2m2!1d-49.2458313!2d-16.814998!3e0
+LinkBehaviour_03783ACD_1EF8_BD2B_41A3_3A0A199BB3B9.source = https://ecocleandistribuicao.com.br/
+LinkBehaviour_041F3D14_1EF8_9739_4192_DAD4331F63FB.source = https://www.google.com/maps/dir//Eco+Clean+-+Avenida+Furnas+Qd.+B1,+R.+L-6+-+St.+Araguaia,+Aparecida+de+Goi%C3%A2nia+-+GO,+74811-145/@-16.7929238,-49.3639435,12z/data=!4m9!4m8!1m0!1m5!1m1!1s0x935efb4625d2c8b7:0xff0e34b446151f14!2m2!1d-49.2458313!2d-16.814998!3e0
+LinkBehaviour_0A7FF1B9_1ED8_8F6B_41B9_E262FCC77DDD.source = https://api.whatsapp.com/message/4V6XFX2ZEUGCB1?autoload=1&app_absent=0
+LinkBehaviour_0BAD0153_1ED9_8F38_41BD_F6B56A5A235B.source = https://api.whatsapp.com/message/4V6XFX2ZEUGCB1?autoload=1&app_absent=0
+LinkBehaviour_0DF58235_1EC7_8D7B_418D_55DA8B5F05A7.source = https://www.instagram.com/ecocleanhigieneelimpeza/
