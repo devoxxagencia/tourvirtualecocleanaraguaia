@@ -1,8 +1,8 @@
 {
- "name": "Tour Virtual 360º - Eco Clean Unid Araguaia ",
- "theme_color": "#0099CC",
- "display": "fullscreen",
  "background_color": "#0099CC",
+ "display": "fullscreen",
+ "theme_color": "#0099CC",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm"
+ "name": "Tour Virtual 360º - Eco Clean Unid Araguaia "
 }
